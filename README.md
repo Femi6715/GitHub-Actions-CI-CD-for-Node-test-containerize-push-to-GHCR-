@@ -10,6 +10,7 @@ The workflow runs automated tests, builds a Docker image, and pushes it to **Git
 
 ---
 
+
 ## 🧱 Pipeline Overview
 1. **Build & Test** (on every push/pull request to `main`)
 2. **Docker Build** and **Push** to GHCR
